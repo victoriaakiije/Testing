@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: brown;
+}
+#container{
+    background-color: white;
+    width: 900px;
+    margin: auto;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+
+p{
+    color: white;
+}
+#menu{
+    width: 800px;
+    border: solid;
+    margin: auto;
+    
+}
+ul{
+width: 800px;
+    color: yellow;
+    margin: auto;
+    text-align: center;
+}
+li{
+    background-color: turquoise;
+    width: 150px;
+    list-style: none;
+    display: inline-block;
+}
+h1{
+    text-align: center;
+}
+.one{
+    background-color: yellow;
+    text-align: center;
+    width: 250px;
+    height: 250px;
+    margin: 5px;
+    display: inline-block;
+    padding-top: 100px;
+    box-sizing: border-box;
+}
